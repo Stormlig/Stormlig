@@ -1,8 +1,8 @@
 # Olá marinheiros da tecnologia!  
 
-### Sou Herrison, Também Conhecido Como Stormlight! 🌩️
+### Sou Herrison, também conhecido como Stormlight! 🌩️
 
- ## Sobre Mim
+ ## Sobre mim
 Curioso, minha paixão pela leitura me leva a explorar romances realistas, literatura histórica e autoajuda. Inicialmente, me aventurei no front-end, mas agora desbravo o intrigante mundo do back-end.  
 
 Além disso, sou um entusiasta da cozinha e um nadador dedicado, buscando equilíbrio entre mente e corpo. Acredito fortemente no poder da colaboração em equipe para criar soluções extraordinárias.  
@@ -34,5 +34,4 @@ Ambientes que valorizem a criatividade e proporcionem oportunidades para crescim
 
 
 ## No Horizonte,
-pretendo expandir meu conhecimento para incluir ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue),  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) e ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white), enquanto continuo buscando ambientes 
-que valorizem a criatividade e proporcionem oportunidades para crescimento pessoal e profissional.
+pretendo expandir meu conhecimento para incluir ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue),  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) e ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white).
